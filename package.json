@@ -1,0 +1,7 @@
+{
+  "private": true,
+  "dependencies": {
+    "browserify": "8.x",
+    "es6ify": "1.x"
+  }
+}
